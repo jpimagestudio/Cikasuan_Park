@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" start="node37" hassounds="1" appversion="7.1.8">
+  <panorama id="node37" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="113.124" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node37" heading="113.124" source="" author="" latitude="23.95211274" longitude="121.58274516" tags="知卡宣親水公園" comment="" description="" info="" datetime="" customnodeid="" copyright="" title="園區入口">
+      <mapcoords x_floorplan_percent="65.2724" x="1.2751" y="-0.0775909" y_floorplan_percent="7.40498" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="2.92428" id="Point01" url="{node55}" tilt="0" title="園區出口"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node55" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="38.9869" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node55" heading="38.9869" source="" author="James Lee" latitude="" longitude="" tags="知卡宣親水公園" comment="" description="" info="" datetime="2023/3/24 12:14" customnodeid="" copyright="jp-image.space" title="園區出口">
+      <mapcoords x_floorplan_percent="65.413" x="1.27785" y="-0.140762" y_floorplan_percent="13.4338" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-74.4572" id="Point01" url="{node54}" tilt="0" title="三角塔"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-18.4131" id="Point03" url="{node58}" tilt="0" title="機翼滑索"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="108.787" id="Point02" url="{node37}" tilt="0" title="園區入口"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node54" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2377" leveltilesize="510" height="2377" levelbias="0.400" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2377" height="2377" predecode="0" preload="0"/>
+      <level width="1188" height="1188" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-69.7697" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node54" heading="-69.7697" source="" author="James Lee" latitude="23.95194233" longitude="121.58333837" tags="知卡宣親水公園" comment="" description="" info="" datetime="2023/3/24 11:46" customnodeid="" copyright="jp-image.space" title="三角塔">
+      <mapcoords x_floorplan_percent="65.3427" x="1.27647" y="-0.317917" y_floorplan_percent="30.3408" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node69}" description="" target="$fwd" skinid="ht_node" pan="-182.452" distance="100.193" tilt="0" title="森活天空樹"/>
+      <hotspot id="Point03" url="{node59}" description="" target="$fwd" skinid="ht_node" pan="-91.7607" distance="44.2634" tilt="0" title="機翼滑索"/>
+      <hotspot id="Point04" url="{node40}" description="" target="$fwd" skinid="ht_node" pan="108.946" distance="144.12" tilt="0" title="更衣室"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-3.21384" id="Point02" url="{node55}" tilt="0" title="園區出口"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="105.582" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node40" heading="105.582" source="" author="" latitude="23.95064686" longitude="121.58329412" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="更衣室">
+      <mapcoords x_floorplan_percent="36.8366" x="0.719604" y="-0.539703" y_floorplan_percent="51.5072" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point02" url="{node54}" description="" target="$fwd" skinid="ht_node" pan="104.298" distance="144.12" tilt="0" title="三角塔"/>
+      <hotspot id="Point01" url="{node39}" description="" target="$fwd" skinid="ht_node" pan="256.314" distance="38.3192" tilt="0" title="服務站"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="30.4749" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node35" heading="30.4749" source="" author="" latitude="23.95006714" longitude="121.58271880" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="行道">
+      <mapcoords x_floorplan_percent="19.1564" x="0.374222" y="-0.42778" y_floorplan_percent="40.8257" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node51}" description="" target="$fwd" skinid="ht_node" pan="44.219" distance="29.6197" tilt="0" title="幼幼池"/>
+      <hotspot id="Point02" url="{node41}" description="" target="$fwd" skinid="ht_node" pan="179.377" distance="22.8589" tilt="0" title="滑道池"/>
+      <hotspot id="Point03" url="{node43}" description="" target="$fwd" skinid="ht_node" pan="-134.229" distance="66.8692" tilt="0" title="噴泉廣場"/>
+      <hotspot id="Point04" url="{node42}" description="" target="$fwd" skinid="ht_node" pan="153.211" distance="67.7748" tilt="0" title="滑道台"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-156.099" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node36" heading="-156.099" source="" author="" latitude="23.95031839" longitude="121.58306882" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="餐食區">
+      <mapcoords x_floorplan_percent="26.9244" x="0.52597" y="-0.575752" y_floorplan_percent="54.9476" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node50}" description="" target="$fwd" skinid="ht_node" pan="-235.511" distance="8.53268" tilt="0" title="餐食區"/>
+      <hotspot id="Point02" url="{node39}" description="" target="$fwd" skinid="ht_node" pan="-128.794" distance="7.27287" tilt="0" title="服務站"/>
+      <hotspot id="Point03" url="{node38}" description="" target="$fwd" skinid="ht_node" pan="-74.8863" distance="12.0552" tilt="0" title="兒童池"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="199.621" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node38" heading="199.621" source="" author="" latitude="23.95029877" longitude="121.58295215" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="兒童池">
+      <mapcoords x_floorplan_percent="25.9051" x="0.506058" y="-0.497131" y_floorplan_percent="47.4443" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node39}" description="" target="$fwd" skinid="ht_node" pan="154.288" distance="13.7966" tilt="0" title="服務站"/>
+      <hotspot id="Point02" url="{node49}" description="" target="$fwd" skinid="ht_node" pan="212.41" distance="12.9475" tilt="0" title="水溜滑梯"/>
+      <hotspot id="Point03" url="{node51}" description="" target="$fwd" skinid="ht_node" pan="278.976" distance="31.4765" tilt="0" title="幼幼池"/>
+      <hotspot id="Point04" url="{node36}" description="" target="$fwd" skinid="ht_node" pan="100.834" distance="12.0552" tilt="0" title="餐食區"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="16.1018" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node39" heading="16.1018" source="" author="" latitude="23.95038212" longitude="121.58305272" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="服務站">
+      <mapcoords x_floorplan_percent="29.1564" x="0.569572" y="-0.523224" y_floorplan_percent="49.9345" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node36}" description="" target="$fwd" skinid="ht_node" pan="-136.593" distance="7.27287" tilt="0" title="餐食區"/>
+      <hotspot id="Point02" url="{node38}" description="" target="$fwd" skinid="ht_node" pan="150.768" distance="13.7966" tilt="0" title="兒童池"/>
+      <hotspot id="Point03" url="{node49}" description="" target="$fwd" skinid="ht_node" pan="86.8208" distance="10.8631" tilt="0" title="水溜滑梯"/>
+      <hotspot id="Point04" url="{node40}" description="" target="$fwd" skinid="ht_node" pan="-13.1664" distance="38.3192" tilt="0" title="更衣室"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-131.945" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node41" heading="-131.945" source="" author="" latitude="23.94988206" longitude="121.58262089" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="滑道池">
+      <mapcoords x_floorplan_percent="14.71" x="0.287361" y="-0.415421" y_floorplan_percent="39.6461" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node35}" description="" target="$fwd" skinid="ht_node" pan="-163.043" distance="22.8589" tilt="0" title="行道"/>
+      <hotspot id="Point03" url="{node52}" description="" target="$fwd" skinid="ht_node" pan="28.4773" distance="23.0546" tilt="0" title="雨林區"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="208.5" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node42" heading="208.5" source="" author="" latitude="23.94973131" longitude="121.58216223" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="滑道台">
+      <mapcoords x_floorplan_percent="7.0826" x="0.138359" y="-0.267105" y_floorplan_percent="25.4915" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point02" url="{node35}" description="" target="$fwd" skinid="ht_node" pan="151.236" distance="67.7748" tilt="0" title="行道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="58.6667" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node43" heading="58.6667" source="" author="" latitude="23.94948863" longitude="121.58289850" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="噴泉廣場">
+      <mapcoords x_floorplan_percent="8.29525" x="0.162048" y="-0.595322" y_floorplan_percent="56.8152" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node48}" description="" target="$fwd" skinid="ht_node" pan="127.788" distance="18.6115" tilt="0" title="深水池"/>
+      <hotspot id="Point02" url="{node35}" description="" target="$fwd" skinid="ht_node" pan="73.9629" distance="66.8692" tilt="0" title="行道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-70.0922" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node45" heading="-70.0922" source="" author="" latitude="23.95031103" longitude="121.58365890" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="林蔭步道">
+      <mapcoords x_floorplan_percent="33.0404" x="0.645447" y="-0.741577" y_floorplan_percent="70.7733" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node69}" description="" target="$fwd" skinid="ht_node" pan="-94.0238" distance="155.762" tilt="0" title="森活天空樹"/>
+      <hotspot id="Point02" url="{node50}" description="" target="$fwd" skinid="ht_node" pan="35.065" distance="52.5375" tilt="0" title="餐食區"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node48" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="204.309" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node48" heading="204.309" source="" author="" latitude="23.94953152" longitude="121.58272147" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="深水池">
+      <mapcoords x_floorplan_percent="8.15466" x="0.159302" y="-0.521164" y_floorplan_percent="49.7379" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node52}" description="" target="$fwd" skinid="ht_node" pan="257.366" distance="25.7456" tilt="0" title="雨林區"/>
+      <hotspot id="Point02" url="{node43}" description="" target="$fwd" skinid="ht_node" pan="93.4301" distance="18.6115" tilt="0" title="噴泉廣場"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-69.315" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node49" heading="-69.315" source="" author="" latitude="23.95041521" longitude="121.58295214" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="水溜滑梯">
+      <mapcoords x_floorplan_percent="28.9279" x="0.565109" y="-0.454559" y_floorplan_percent="43.3814" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node38}" description="" target="$fwd" skinid="ht_node" pan="-236.526" distance="12.9475" tilt="0" title="兒童池"/>
+      <hotspot id="Point03" url="{node39}" description="" target="$fwd" skinid="ht_node" pan="-178.596" distance="10.8631" tilt="0" title="服務站"/>
+      <hotspot id="Point04" url="{node53}" description="" target="$fwd" skinid="ht_node" pan="-18.9828" distance="28.4596" tilt="0" title="海洋造浪池"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="13.5325" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node50" heading="13.5325" source="" author="" latitude="23.95035271" longitude="121.58314392" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="餐食區">
+      <mapcoords x_floorplan_percent="29.9473" x="0.585022" y="-0.664673" y_floorplan_percent="63.4338" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node45}" description="" target="$fwd" skinid="ht_node" pan="-61.3103" distance="52.5375" tilt="0" title="林蔭步道"/>
+      <hotspot id="Point02" url="{node36}" description="" target="$fwd" skinid="ht_node" pan="114.12" distance="8.53268" tilt="0" title="餐食區"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node51" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-115.914" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node51" heading="-115.914" source="" author="" latitude="23.95032452" longitude="121.58264369" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="幼幼池">
+      <mapcoords x_floorplan_percent="24.2882" x="0.474472" y="-0.352936" y_floorplan_percent="33.6828" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node38}" description="" target="$fwd" skinid="ht_node" pan="-216.559" distance="31.4765" tilt="0" title="兒童池"/>
+      <hotspot id="Point02" url="{node35}" description="" target="$fwd" skinid="ht_node" pan="-282.17" distance="29.6197" tilt="0" title="行道"/>
+      <hotspot id="Point03" url="{node53}" description="" target="$fwd" skinid="ht_node" pan="-132.954" distance="28.9187" tilt="0" title="海洋造浪池"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node52" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="121.865" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node52" heading="121.865" source="" author="" latitude="23.94968964" longitude="121.58253640" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="雨林區">
+      <mapcoords x_floorplan_percent="9.42004" x="0.184021" y="-0.4216" y_floorplan_percent="40.2359" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node41}" description="" target="$fwd" skinid="ht_node" pan="102.287" distance="23.0546" tilt="0" title="滑道池"/>
+      <hotspot id="Point02" url="{node48}" description="" target="$fwd" skinid="ht_node" pan="-5.07823" distance="25.7456" tilt="0" title="深水池"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node53" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-9.81102" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node53" heading="-9.81102" source="" author="" latitude="23.95057209" longitude="121.58273086" tags="親水公園" comment="" description="親子戲水區" info="" datetime="" customnodeid="" copyright="" title="海洋造浪池">
+      <mapcoords x_floorplan_percent="30.6854" x="0.599442" y="-0.33989" y_floorplan_percent="32.4377" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node51}" description="" target="$fwd" skinid="ht_node" pan="153.149" distance="28.9187" tilt="0" title="幼幼池"/>
+      <hotspot id="Point02" url="{node49}" description="" target="$fwd" skinid="ht_node" pan="-139.479" distance="28.4596" tilt="0" title="水溜滑梯"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node82" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-74.2323" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node82" heading="-74.2323" source="" author="" latitude="23.95303768" longitude="121.58447069" tags="" comment="" description="有機綠拇園溫室" info="" datetime="" customnodeid="" copyright="" title="溫室入口">
+      <mapcoords x_floorplan_percent="95.6766" x="1.86905" y="-0.557556" y_floorplan_percent="53.211" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node34}" description="" target="$fwd" skinid="ht_node" pan="9.78823" distance="44.8551" tilt="0" title="有機綠拇園溫室"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="73.5378" id="Point02" url="{node33}" tilt="0" title="有機綠拇園溫室"/>
+      <hotspot id="Point03" url="{node69}" description="" target="$fwd" skinid="ht_node" pan="100.992" distance="161.092" tilt="0" title="森活天空樹"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="60.251" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node33" heading="60.251" source="" author="" latitude="" longitude="" tags="有機綠拇園" comment="" description="有機綠拇園" info="" datetime="" customnodeid="" copyright="" title="有機綠拇園溫室">
+      <mapcoords x_floorplan_percent="92.8647" x="1.81412" y="-0.54863" y_floorplan_percent="52.3591" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="28.0211" id="Point01" url="{node82}" tilt="0" title="溫室入口"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="224.918" id="Point02" url="{node32}" tilt="0" title="有機綠拇園溫室"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="80.7175" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node32" heading="80.7175" source="" author="" latitude="" longitude="" tags="有機綠拇園" comment="" description="有機綠拇園" info="" datetime="" customnodeid="" copyright="" title="有機綠拇園溫室">
+      <mapcoords x_floorplan_percent="91.0369" x="1.77841" y="-0.553436" y_floorplan_percent="52.8178" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="65.3843" id="Point01" url="{node33}" tilt="0" title="有機綠拇園溫室"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node34" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="210.256" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node34" heading="210.256" source="" author="" latitude="23.95294489" longitude="121.58404112" tags="有機綠拇園" comment="" description="有機綠拇園" info="" datetime="" customnodeid="" copyright="" title="有機綠拇園溫室">
+      <mapcoords x_floorplan_percent="93.0404" x="1.81755" y="-0.389328" y_floorplan_percent="37.156" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node63}" description="" target="$fwd" skinid="ht_node" pan="305.033" distance="13.2019" tilt="0" title="魔法音樂河"/>
+      <hotspot id="Point02" url="{node61}" description="" target="$fwd" skinid="ht_node" pan="361.455" distance="28.4263" tilt="0" title="魔法音樂河"/>
+      <hotspot id="Point03" url="{node82}" description="" target="$fwd" skinid="ht_node" pan="114.277" distance="44.8551" tilt="0" title="溫室入口"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node59" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2376" leveltilesize="510" height="2376" levelbias="0.400" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2376" height="2376" predecode="0" preload="0"/>
+      <level width="1188" height="1188" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="55.6409" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node59" heading="55.6409" source="" author="James Lee" latitude="23.95231860" longitude="121.58348054" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 11:11" customnodeid="" copyright="jp-image.space" title="機翼滑索">
+      <mapcoords x_floorplan_percent="74.3234" x="1.45191" y="-0.314827" y_floorplan_percent="30.0459" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node54}" description="" target="$fwd" skinid="ht_node" pan="213.65" distance="44.2634" tilt="0" title="三角塔"/>
+      <hotspot id="Point02" url="{node58}" description="" target="$fwd" skinid="ht_node" pan="65.1121" distance="11.1029" tilt="0" title="機翼滑索"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-13.578" id="Point03" url="{node62}" tilt="0" title="爬索"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node58" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2376" leveltilesize="510" height="2376" levelbias="0.400" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2376" height="2376" predecode="0" preload="0"/>
+      <level width="1188" height="1188" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-156.363" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node58" heading="-156.363" source="" author="James Lee" latitude="23.95241570" longitude="121.58345507" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 11:07" customnodeid="" copyright="jp-image.space" title="機翼滑索">
+      <mapcoords x_floorplan_percent="76.4499" x="1.49345" y="-0.288391" y_floorplan_percent="27.5229" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node59}" description="" target="$fwd" skinid="ht_node" pan="-326.892" distance="11.1029" tilt="0" title="機翼滑索"/>
+      <hotspot id="Point02" url="{node66}" description="" target="$fwd" skinid="ht_node" pan="-179.176" distance="26.2632" tilt="0" title="機翼滑索"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-33.763" id="Point03" url="{node55}" tilt="0" title="園區出口"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node66" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-117.241" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node66" heading="-117.241" source="" author="" latitude="23.95263114" longitude="121.58356100" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="" customnodeid="" copyright="" title="機翼滑索">
+      <mapcoords x_floorplan_percent="81.8278" x="1.59851" y="-0.288048" y_floorplan_percent="27.4902" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node58}" description="" target="$fwd" skinid="ht_node" pan="39.9462" distance="26.2632" tilt="0" title="機翼滑索"/>
+      <hotspot id="Point02" url="{node65}" description="" target="$fwd" skinid="ht_node" pan="-111.281" distance="23.2431" tilt="0" title="機翼滑索"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node61" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2373" leveltilesize="510" height="2373" levelbias="0.400" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2373" height="2373" predecode="0" preload="0"/>
+      <level width="1186" height="1186" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="172.202" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node61" heading="172.202" source="" author="James Lee" latitude="23.95277944" longitude="121.58382787" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 11:21" customnodeid="" copyright="jp-image.space" title="魔法音樂河">
+      <mapcoords x_floorplan_percent="87.5044" x="1.7094" y="-0.378342" y_floorplan_percent="36.1075" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node34}" description="" target="$fwd" skinid="ht_node" pan="143.401" distance="28.4263" tilt="0" title="有機綠拇園溫室"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="335.24" id="Point02" url="{node62}" tilt="0" title="爬索"/>
+      <hotspot id="Point03" url="{node63}" description="" target="$fwd" skinid="ht_node" pan="171.124" distance="21.9218" tilt="0" title="魔法音樂河"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node62" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="161.002" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node62" heading="161.002" source="" author="James Lee" latitude="" longitude="" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 11:54" customnodeid="" copyright="jp-image.space" title="爬索">
+      <mapcoords x_floorplan_percent="78.3656" x="1.53088" y="-0.397224" y_floorplan_percent="37.9096" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="144.04" id="Point01" url="{node61}" tilt="0" title="魔法音樂河"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="271.783" id="Point02" url="{node59}" tilt="0" title="機翼滑索"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node63" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2374" leveltilesize="510" height="2374" levelbias="0.400" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2374" height="2374" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="28.7299" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node63" heading="28.7299" source="" author="James Lee" latitude="23.95296083" longitude="121.58391238" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 12:00" customnodeid="" copyright="jp-image.space" title="魔法音樂河">
+      <mapcoords x_floorplan_percent="91.8805" x="1.79489" y="-0.341949" y_floorplan_percent="32.6343" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node64}" description="" target="$fwd" skinid="ht_node" pan="136.592" distance="18.6642" tilt="0" title="飛機駕駛體驗"/>
+      <hotspot id="Point02" url="{node34}" description="" target="$fwd" skinid="ht_node" pan="-56.4935" distance="13.2019" tilt="0" title="有機綠拇園溫室"/>
+      <hotspot id="Point03" url="{node61}" description="" target="$fwd" skinid="ht_node" pan="207.652" distance="21.9218" tilt="0" title="魔法音樂河"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node64" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.4703" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node64" heading="79.4703" source="" author="James Lee" latitude="23.95293264" longitude="121.58373132" tags="荒野冒險島" comment="" description="機堡" info="" datetime="2023/3/24 12:03" customnodeid="" copyright="jp-image.space" title="飛機駕駛體驗">
+      <mapcoords x_floorplan_percent="89.9121" x="1.75644" y="-0.301094" y_floorplan_percent="28.7353" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node65}" description="" target="$fwd" skinid="ht_node" pan="205.573" distance="17.6353" tilt="0" title="機翼滑索"/>
+      <hotspot id="Point02" url="{node63}" description="" target="$fwd" skinid="ht_node" pan="7.33271" distance="18.6642" tilt="0" title="魔法音樂河"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node65" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2373" leveltilesize="510" height="2373" levelbias="0.400" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2373" height="2373" predecode="0" preload="0"/>
+      <level width="1186" height="1186" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="32.6653" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node65" heading="32.6653" source="" author="James Lee" latitude="23.95283826" longitude="121.58359185" tags="荒野冒險島" comment="" description="荒野冒險島" info="" datetime="2023/3/24 12:06" customnodeid="" copyright="jp-image.space" title="機翼滑索">
+      <mapcoords x_floorplan_percent="85.4482" x="1.66924" y="-0.248909" y_floorplan_percent="23.7549" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node66}" description="" target="$fwd" skinid="ht_node" pan="-141.375" distance="23.2431" tilt="0" title="機翼滑索"/>
+      <hotspot id="Point02" url="{node64}" description="" target="$fwd" skinid="ht_node" pan="-21.2321" distance="17.6353" tilt="0" title="飛機駕駛體驗"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node67" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="3264" leveltilesize="510" height="3264" levelbias="0.400" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="3264" height="3264" predecode="0" preload="0"/>
+      <level width="1632" height="1632" predecode="0" preload="0"/>
+      <level width="816" height="816" predecode="0" preload="0"/>
+      <level width="408" height="408" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-42.175" fovmode="2">
+      <start pan="0" fov="130" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node67" heading="-42.175" source="" author="" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/28 17:17" customnodeid="" copyright="" title="俯瞰圖">
+      <mapcoords x_floorplan_percent="57.768" x="1.1285" y="-0.886459" y_floorplan_percent="84.6003" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-112.739" id="Point01" url="{node77}" tilt="0" title="爬籠"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="86.4011" id="Point02" url="{node80}" tilt="0" title="共融蹺蹺板"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node68" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2048" leveltilesize="510" height="2048" levelbias="0.400" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="78.5833" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node68" heading="78.5833" source="" author="" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="" customnodeid="" copyright="" title="爬籠/鑽籠">
+      <mapcoords x_floorplan_percent="57.3111" x="1.11958" y="-0.915985" y_floorplan_percent="87.4181" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="255.476" id="Point01" url="{node76}" tilt="0" title="不鏽鋼溜滑梯"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="96.9088" id="Point02" url="{node77}" tilt="0" title="爬籠"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node69" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2374" leveltilesize="510" height="2374" levelbias="0.400" leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2374" height="2374" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="113.359" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node69" heading="113.359" source="" author="James Lee" latitude="23.95160284" longitude="121.58425167" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 9:41" customnodeid="" copyright="jp-image.space" title="森活天空樹">
+      <mapcoords x_floorplan_percent="65.4657" x="1.27888" y="-0.751877" y_floorplan_percent="71.7562" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="_blank" skinid="ht_url" pan="-188.52" id="Point01" url="" tilt="-0.61" title=""/>
+      <hotspot id="Point02" url="{node54}" description="" target="$fwd" skinid="ht_node" pan="180.676" distance="100.193" tilt="0" title="三角塔"/>
+      <hotspot id="Point03" url="{node82}" description="" target="$fwd" skinid="ht_node" pan="108.584" distance="161.092" tilt="0" title="溫室入口"/>
+      <hotspot id="Point04" url="{node73}" description="" target="$fwd" skinid="ht_node" pan="-63.7474" distance="16.8516" tilt="0" title="步道"/>
+      <hotspot id="Point05" url="{node45}" description="" target="$fwd" skinid="ht_node" pan="269.427" distance="155.762" tilt="0" title="林蔭步道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node70" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2372" leveltilesize="510" height="2372" levelbias="0.400" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2372" height="2372" predecode="0" preload="0"/>
+      <level width="1186" height="1186" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="103.965" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node70" heading="103.965" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:42" customnodeid="" copyright="jp-image.space" title="鳥巢鞦韆">
+      <mapcoords x_floorplan_percent="53.4622" x="1.04439" y="-0.899162" y_floorplan_percent="85.8126" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="_blank" skinid="ht_url" pan="-23.25" id="Point01" url="" tilt="-17.33" title=""/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="28.4691" id="Point02" url="{node71}" tilt="0" title="體能協調訓練"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="151.209" id="Point03" url="{node80}" tilt="0" title="共融蹺蹺板"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node71" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2372" leveltilesize="510" height="2372" levelbias="0.400" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2372" height="2372" predecode="0" preload="0"/>
+      <level width="1186" height="1186" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="164.367" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node71" heading="164.367" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:46" customnodeid="" copyright="jp-image.space" title="體能協調訓練">
+      <mapcoords x_floorplan_percent="54.6221" x="1.06705" y="-0.928688" y_floorplan_percent="88.6304" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="268.871" id="Point01" url="{node70}" tilt="0" title="鳥巢鞦韆"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="51.8926" id="Point02" url="{node72}" tilt="0" title="不鏽鋼滑道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node72" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-22.9533" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node72" heading="-22.9533" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:51" customnodeid="" copyright="jp-image.space" title="不鏽鋼滑道">
+      <mapcoords x_floorplan_percent="54.6397" x="1.06739" y="-0.96611" y_floorplan_percent="92.2018" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="44.5723" id="Point01" url="{node71}" tilt="0" title="體能協調訓練"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node73" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2378" leveltilesize="510" height="2378" levelbias="0.400" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2378" height="2378" predecode="0" preload="0"/>
+      <level width="1189" height="1189" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="168.456" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node73" heading="168.456" source="" author="James Lee" latitude="23.95145944" longitude="121.58430532" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 9:44" customnodeid="" copyright="jp-image.space" title="步道">
+      <mapcoords x_floorplan_percent="61.8453" x="1.20815" y="-0.786209" y_floorplan_percent="75.0328" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node69}" description="" target="$fwd" skinid="ht_node" pan="171.35" distance="16.8516" tilt="0" title="森活天空樹"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="325.456" id="Point02" url="{node74}" tilt="0" title="無障礙步道"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="27.4685" id="Point03" url="{node79}" tilt="0" title="管狀滑梯"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node74" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95.1006" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node74" heading="95.1006" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="" info="" datetime="2023/3/24 9:49" customnodeid="" copyright="jp-image.space" title="無障礙步道">
+      <mapcoords x_floorplan_percent="57.9789" x="1.13262" y="-0.786209" y_floorplan_percent="75.0328" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="72.1006" id="Point01" url="{node73}" tilt="0" title="步道"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-70.8466" id="Point02" url="{node75}" tilt="0" title="管狀滑梯"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-65.6673" id="Point03" url="{node80}" tilt="0" title="共融蹺蹺板"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node75" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2375" leveltilesize="510" height="2375" levelbias="0.400" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2375" height="2375" predecode="0" preload="0"/>
+      <level width="1187" height="1187" predecode="0" preload="0"/>
+      <level width="593" height="593" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="41.7799" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node75" heading="41.7799" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="" info="" datetime="2023/3/24 9:54" customnodeid="" copyright="jp-image.space" title="管狀滑梯">
+      <mapcoords x_floorplan_percent="50.949" x="0.995293" y="-0.889893" y_floorplan_percent="84.9279" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="55.8327" id="Point01" url="{node74}" tilt="0" title="無障礙步道"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-13.1764" id="Point02" url="{node76}" tilt="0" title="不鏽鋼溜滑梯"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node76" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2376" leveltilesize="510" height="2376" levelbias="0.400" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2376" height="2376" predecode="0" preload="0"/>
+      <level width="1188" height="1188" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="117.058" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node76" heading="117.058" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="" info="" datetime="2023/3/24 9:57" customnodeid="" copyright="jp-image.space" title="不鏽鋼溜滑梯">
+      <mapcoords x_floorplan_percent="54.6397" x="1.06739" y="-0.934868" y_floorplan_percent="89.2202" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="242.102" id="Point01" url="{node75}" tilt="0" title="管狀滑梯"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="113.95" id="Point02" url="{node68}" tilt="0" title="爬籠/鑽籠"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node77" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2379" leveltilesize="510" height="2379" levelbias="0.400" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2379" height="2379" predecode="0" preload="0"/>
+      <level width="1189" height="1189" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-129.785" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node77" heading="-129.785" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="" info="" datetime="2023/3/24 10:01" customnodeid="" copyright="jp-image.space" title="爬籠">
+      <mapcoords x_floorplan_percent="58.3304" x="1.13949" y="-0.898476" y_floorplan_percent="85.7471" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-291.459" id="Point01" url="{node68}" tilt="0" title="爬籠/鑽籠"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-20.3488" id="Point02" url="{node67}" tilt="0" title="俯瞰圖"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-85.7876" id="Point03" url="{node78}" tilt="0" title="爬籠塔"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node78" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2378" leveltilesize="510" height="2378" levelbias="0.400" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2378" height="2378" predecode="0" preload="0"/>
+      <level width="1189" height="1189" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-118.782" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node78" heading="-118.782" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:08" customnodeid="" copyright="jp-image.space" title="爬籠塔">
+      <mapcoords x_floorplan_percent="59.1213" x="1.15494" y="-0.862083" y_floorplan_percent="82.2739" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-254.785" id="Point01" url="{node77}" tilt="0" title="爬籠"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node79" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2376" leveltilesize="510" height="2376" levelbias="0.400" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2376" height="2376" predecode="0" preload="0"/>
+      <level width="1188" height="1188" predecode="0" preload="0"/>
+      <level width="594" height="594" predecode="0" preload="0"/>
+      <level width="297" height="297" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-57.5088" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node79" heading="-57.5088" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:35" customnodeid="" copyright="jp-image.space" title="管狀滑梯">
+      <mapcoords x_floorplan_percent="60.2109" x="1.17622" y="-0.846291" y_floorplan_percent="80.7667" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="101.555" id="Point01" url="{node80}" tilt="0" title="共融蹺蹺板"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="-18.4963" id="Point02" url="{node73}" tilt="0" title="步道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <panorama id="node80" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="2371" leveltilesize="510" height="2371" levelbias="0.400" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2371" height="2371" predecode="0" preload="0"/>
+      <level width="1185" height="1185" predecode="0" preload="0"/>
+      <level width="592" height="592" predecode="0" preload="0"/>
+      <level width="296" height="296" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="167.917" fovmode="2">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node80" heading="167.917" source="" author="James Lee" latitude="" longitude="" tags="森活天空樹遊戲場" comment="" description="森活天空樹" info="" datetime="2023/3/24 10:39" customnodeid="" copyright="jp-image.space" title="共融蹺蹺板">
+      <mapcoords x_floorplan_percent="54.3585" x="1.0619" y="-0.85041" y_floorplan_percent="81.1599" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label wordwrap="1" border="1" textalpha="1" borderradius="1" width="180" backgroundcolor="0xffffff" height="20" backgroundalpha="1" background="1" enabled="1" textcolor="0x000000" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="35.161" id="Point01" url="{node70}" tilt="0" title="鳥巢鞦韆"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="116.493" id="Point02" url="{node67}" tilt="0" title="俯瞰圖"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="146.981" id="Point03" url="{node79}" tilt="0" title="管狀滑梯"/>
+      <hotspot description="" target="$fwd" skinid="ht_node" pan="187.149" id="Point04" url="{node74}" tilt="0" title="無障礙步道"/>
+    </hotspots>
+    <media>
+      <sound mode="0" startmutedmobile="0" id="_background" pansize="10.000" tiltsize="10.000" level="0.800" nodechangekeep="1" pan="-1.000" loop="0" tilt="-1.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Get Outside - Jason Farnham.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" zoomfov="40" type="crossdissolve" zoomafteroutfov="40" zoomout="0" enabled="1" blendcolor="0x000000" zoomafterinfov="140" softedge="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" simulatemass="1" dblclickfullscreen="0" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" contextfullscreen="1" rubberband="0" contextprojections="0" hideabout="1" invertcontrol="1" contextvr="1" zoomcentercursor="1" speedwheel="1">
+      <menulink url="https://oring-brother.com" text="JP爵攝數位影像工作室"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata description="" author="爵攝數位影像工作室" copyright="" tags="" comment="" title="知卡宣公園"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map title="知卡宣公園" crispedges="0" id="FloorPlan01" bgcolor="rgba(255, 255, 255, 1)" transparent="0" index="0" type="file" width="5690" height="3052" floorplannorth="67" tileformat="jpg" zoomlevels="6"/>
+</tour>
